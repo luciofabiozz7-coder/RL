@@ -11,7 +11,7 @@
   "background_color": "#F5F0E4",
   "theme_color": "#F5F0E4",
   "icons": [
-    "src": "./icon-512.png",
+    {"src": "./icon-512.png"},
     {"src": "./icon-512.png"}
   ]
 }
